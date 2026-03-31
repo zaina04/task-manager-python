@@ -1,0 +1,88 @@
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 1
+
+No tasks available.
+
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 2
+Enter new task: quiz prep
+Task added!
+
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 1
+
+--- Your Tasks ---
+1. quiz prep
+
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 3
+
+--- Your Tasks ---
+1. quiz prep
+
+Enter task number to mark complete: 1
+Task marked as complete!
+
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 1
+
+--- Your Tasks ---
+1. quiz prep [Done]
+
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 4
+
+--- Your Tasks ---
+1. quiz prep [Done]
+
+Enter task number to delete: 1
+Deleted: quiz prep [Done]
+
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 1
+
+No tasks available.
+
+==== Task Manager ====
+1. Show Tasks
+2. Add Task
+3. Mark Task as Complete
+4. Delete Task
+5. Exit
+Enter choice: 5
+Tasks saved. Goodbye!
